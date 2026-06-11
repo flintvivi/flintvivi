@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, it's Noëlla</h1>
+<h1 align="center">Hello there, it's Flint</h1>
 <h3 align="center">Just another CS student</h3>
 
 - 🌱 I’m currently learning programming **through Harvard CS50**
